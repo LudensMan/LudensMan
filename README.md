@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LudensMan
+- 👀 I’m interested in a lot of things, like sport, video games, and by the dev, since few month
+- 🌱 I’m currently learning python, my first language
+-  🤞 My objectif in programation is to be able to do everything alone
